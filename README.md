@@ -360,7 +360,7 @@ t:
   posts: "Posts"
   page: "Page"
   of: "of"
-  min_read: "three minutes more"
+  min_read: "min read"
   present: "Present"
 ```
 
