@@ -102,10 +102,10 @@ figcaption {
 }
 
 a {
-  color: $accent-color;
+  color: white;
 
   &:hover {
-    color: shade($accent-color, 25%);
+    color: white($accent-color, 25%);
   }
 }
 
