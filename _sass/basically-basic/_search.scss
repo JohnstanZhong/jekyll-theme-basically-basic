@@ -19,8 +19,8 @@
 }
 
 .search-content {
-  display: inline-block;
-  visibility: ;
+  display: inline;
+  visibility: hidden;
   padding-top: 1em;
   padding-bottom: 1em;
 
@@ -55,7 +55,7 @@
   }
 
   .search-input {
-    display: inline-block;
+    display: block;
     margin-bottom: 0;
     padding: 0;
     border: none;
