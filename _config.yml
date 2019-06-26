@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 lang: en-US
-title:  钟振升 -  永远抱持善意
+title:  皓月清明 你是人间曙光
 email: 2840911464@qq.com   
 description: A normal site and i love zhaoman
 baseurl: # the optional subpath of your site, e.g. "/blog"
