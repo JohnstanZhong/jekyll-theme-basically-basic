@@ -66,7 +66,7 @@
     -webkit-transition-duration: $navicon-duration $navicon-duration / 2;
     transition-duration: $navicon-duration $navicon-duration / 2;
     border-radius: $navicon-width;
-    background: $navicon-content-bg;
+    background: white;
     content: "";
   }
 
