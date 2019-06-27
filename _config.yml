@@ -17,9 +17,9 @@ lang: en-US
 title:  皓月清明 你是人间曙光
 email: 2840911464@qq.com   
 description: 一个收藏自己秘密的网站
-baseurl: /johnstanzhong.github.io# the optional subpath of your site, e.g. "/blog"
-url: https://johnstanzhong.github.io# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-author: Johnstanzhong
+baseurl: # the optional subpath of your site, e.g. "/blog"
+url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+author: johnstanzhong
 name:
 twitter:
 picture:
