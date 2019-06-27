@@ -43,7 +43,7 @@ $h6-max: ($base-font-size / $modular-scale-2) !default;
 
 /* Base font family */
 $base-font-family: "Fira Sans", sans-serif !default;
-$global-font-family:$serif !default;
+$global-font-family: $serif !default;
 /* Other font families */
 $headline-font-family: $base-font-family !default;
 $monospace-font-family: Menlo, Consolas, Monaco, "Courier New", Courier,
@@ -51,7 +51,7 @@ $monospace-font-family: Menlo, Consolas, Monaco, "Courier New", Courier,
 
 /* Colors */
 $base-color: #393e46 !default;
-$text-color: #181c22 !default;
+$text-color: white !default;
 $accent-color: #00838a !default;
 $background-color: #fff !default;
 $code-background-color: tint($base-color, 95%) !default;
