@@ -23,7 +23,7 @@ title: "关于我"
  + 新而难，但我认为掌握了获取数据、清洗数据、分析数据的技能，将来能做很多有意义的事情。那就keep going 吧！
 
 <div>
-<img src="/assets/images/selfie.jpg" width="350px" height="350px">
+<img src="/assets/images/banner.jpg">
 </div>
 
 
