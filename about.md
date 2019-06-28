@@ -1,8 +1,6 @@
 ---
-author: JohnstanZhong
 layout: about
 title: "关于我"
-date: 2019-06-28
 ---
 
 
