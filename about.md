@@ -4,7 +4,7 @@ title: "关于我"
 ---
 
 <div>
-<img src="/assets/images/aboutme.jpg" width:100%;>
+<img src="/assets/images/aboutme.jpg">
 </div>
 ## About me
 ### 我是谁
