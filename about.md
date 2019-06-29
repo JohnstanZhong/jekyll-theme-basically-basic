@@ -3,9 +3,7 @@ layout: about
 title: "关于我"
 ---
 
-<div>
-<img src="/assets/images/lovelyboy.jpg">
-</div>
+
 ## About me
 ### 我是谁
 > 只有哲学会讲“我是谁”，日常生活中并没有多少人思考过自己是谁。根据面向对象，在我的能力范围内说清楚自己是谁，那这篇肯定是个人简历般的文章。
